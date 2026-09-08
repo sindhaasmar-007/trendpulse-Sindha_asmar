@@ -1,4 +1,5 @@
 # trendpulse-Sindha_asmar
+
 # TrendPulse
 
 ## 📊 Real-Time Trending Data Collection and Analysis
