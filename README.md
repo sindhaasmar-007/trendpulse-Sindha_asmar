@@ -39,14 +39,17 @@ The following chart shows the top 10 trending stories collected and analyzed by 
 
 ## 📁 Project Structure
 
-```text
-TrendPulse/
+TrendPulse
 │
-├── README.md
-├── task1_data_collection.py
-├── task2_data_processing.py
-├── task3_data_analysis.py
-├── task4_visualization.py
+├── README.md                  ← Documentation
+├── requirements.txt           ← Python dependencies
+├── .gitignore
+│
+├── task1_data_collection.py   ← Collect data
+├── task2_data_processing.py   ← Clean data
+├── task3_data_analysis.py     ← Analyze data
+├── task4_visualization.py     ← Create chart
+│
 ├── trending_data.csv
 ├── processed_trending_data.csv
 ├── analysis_results.csv
