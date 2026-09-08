@@ -53,4 +53,4 @@ TrendPulse
 ├── trending_data.csv
 ├── processed_trending_data.csv
 ├── analysis_results.csv
-└── top_10_trending_stories.png
+└── top_10_trending_stories.png 
