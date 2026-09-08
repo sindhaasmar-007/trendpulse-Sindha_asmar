@@ -31,6 +31,12 @@ The main objective of TrendPulse is to demonstrate how real-time trending data c
 - Hacker News API
 - CSV
 
+## 📊 Project Visualization
+
+The following chart shows the top 10 trending stories collected and analyzed by TrendPulse.
+
+![Top 10 Trending Stories](top_10_trending_stories.png)
+
 ## 📁 Project Structure
 
 ```text
